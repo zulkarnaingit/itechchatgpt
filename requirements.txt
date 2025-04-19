@@ -3,6 +3,7 @@ langchain_community
 langchain_openai
 python-dotenv
 streamlit
+langchain_google_genai
 langchain_experimental
 sentence-transformers
 langchain_chroma
