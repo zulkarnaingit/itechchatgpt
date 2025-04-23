@@ -8,7 +8,6 @@ tiktoken
 python-dotenv
 langchain_core
 langchain_google_genai
-pip --upgrade
 setuptools
 distutils
 unstructured
