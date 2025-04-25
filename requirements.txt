@@ -10,7 +10,6 @@ langchain_core
 langchain_google_genai
 pip==24.0
 setuptools
-distutils
 unstructured
 tabulate
 pdf2image
