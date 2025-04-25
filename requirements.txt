@@ -8,6 +8,7 @@ tiktoken
 python-dotenv
 langchain_core
 langchain_google_genai
+pip==24.0
 setuptools
 distutils
 unstructured
